@@ -37,17 +37,14 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
 ## Output
 
+![Screenshot 2023-06-11 141924](https://github.com/S-ARVIND01/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118707337/9f26f237-42eb-41f4-9f4f-e9ff61302717)
 
-### Name:
-### Register Number: 
+![Screenshot 2023-06-11 142248](https://github.com/S-ARVIND01/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118707337/bfd3fe49-ef79-4bf4-a476-cb67cf5dd218)
+
+### Name: K NAGUL
+### Register Number: 212222230089
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
